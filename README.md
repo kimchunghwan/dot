@@ -19,3 +19,11 @@ clipy  https://github.com/Clipy/Clipy/releases
 
 spectacle https://github.com/eczarny/spectacle/releases 
 
+~/.vimrc
+
+```
+➜ cat ~/.vimrc 
+set number
+set hlsearch
+syntax on
+```
